@@ -1,0 +1,16 @@
+[
+  {
+    "mentor_id": "mentor_01",
+    "date": "2025-01-10",
+    "slot_start": "14:00",
+    "slot_end": "15:00",
+    "reason": "Emergency leave"
+  },
+  {
+    "mentor_id": "mentor_02",
+    "date": "2025-01-23",
+    "slot_start": "14:00",
+    "slot_end": "15:00",
+    "reason": "Travel conflict"
+  }
+]

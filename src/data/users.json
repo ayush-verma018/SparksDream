@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "mentor_01",
+    "role": "MENTOR",
+    "name": "Anita Sharma",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "user_id": "mentor_02",
+    "role": "MENTOR",
+    "name": "Lucas Ferreira",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "user_id": "mentor_03",
+    "role": "MENTOR",
+    "name": "Mohit Sharma",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "user_id": "mentee_01",
+    "role": "MENTEE",
+    "name": "Rahul Verma",
+    "timezone": "Asia/Kolkata"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "mentor_id": "mentor_01",
+    "day_of_week": "MONDAY",
+    "slot_start": "14:00",
+    "slot_end": "15:00"
+  },
+  {
+    "mentor_id": "mentor_01",
+    "day_of_week": "MONDAY",
+    "slot_start": "16:00",
+    "slot_end": "17:00"
+  },
+  {
+    "mentor_id": "mentor_01",
+    "day_of_week": "MONDAY",
+    "slot_start": "14:00",
+    "slot_end": "15:00"
+  },
+  {
+    "mentor_id": "mentor_01",
+    "day_of_week": "WEDNESDAY",
+    "slot_start": "10:00",
+    "slot_end": "11:00"
+  },
+  {
+    "mentor_id": "mentor_01",
+    "day_of_week": "FRIDAY",
+    "slot_start": "15:00",
+    "slot_end": "16:00"
+  },
+  {
+    "mentor_id": "mentor_02",
+    "day_of_week": "TUESDAY",
+    "slot_start": "9:00",
+    "slot_end": "10:00"
+  },
+  {
+    "mentor_id": "mentor_02",
+    "day_of_week": "THURSDAY",
+    "slot_start": "14:00",
+    "slot_end": "15:00"
+  },
+  {
+    "mentor_id": "mentor_02",
+    "day_of_week": "THURSDAY",
+    "slot_start": "14:00",
+    "slot_end": "15:00"
+  },
+  {
+    "mentor_id": "mentor_02",
+    "day_of_week": "FRIDAY",
+    "slot_start": "16:00",
+    "slot_end": "17:00"
+  }
+]
