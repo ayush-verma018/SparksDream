@@ -1,4 +1,7 @@
 # Mentor–Mentee Scheduling (React Native)
+
+# APK Download link:
+https://expo.dev/accounts/ayush_verma018/projects/SparksDream/builds/20a2e7b1-3fa5-46e0-a30d-05279a8f6379
 # Problem Statement
 
 1. Implement a one-on-one mentor call scheduling flow for a mobile EdTech application using React Native, based on static UI designs and a provided data schema.
@@ -6,19 +9,13 @@
 2. The goal is to model real-world scheduling constraints entirely on the frontend while keeping state predictable, logic consistent, and edge cases well handled.
 
 # Functional Flow Implemented
-    Step 1: Mentor list is available , clicking the mentor you will get the weekly availability display.
-    
-    Step 2: Slot Selection, select a slot (all slots are displayed based on the mentee timezone).
-    
-    Step 3: After slot selection, redirected to create booking page, select the final slot and date here and cnfirm booking.
-    
-    Step 4: Booking Confirmation, indicates booking is created successfully, with booking details.
-    
-    Step 5: Booking list, shows all the upcoming and previous bookings, click on any upcoming booking to reschedule it.
-    
-    Step 6: Rescheduling screen, select new slot and date to reschedule the session.
-    
-    Step 7: Empty State Handling, everywhere handled with proper UI given figma
+1. Mentor Selection: Users can view the list of mentors and access each mentor’s weekly availability.
+2. Slot Selection: Available slots are displayed based on the mentee’s timezone, allowing users to choose a preferred slot.
+3. Booking Creation: After selecting a slot, users are redirected to the booking screen to confirm the final date and time.
+4. Booking Confirmation: A confirmation screen displays the successful booking along with session details.
+5. Booking List: Users can view all upcoming and past bookings, with the option to reschedule upcoming sessions.
+6. Rescheduling: Users can select a new date and time to reschedule an existing booking.
+7. Empty States: All empty and edge states are handled gracefully with UI aligned to the provided Figma designs
 
 # Data Model
 
